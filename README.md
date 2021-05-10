@@ -10,3 +10,6 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 Since the first priority is to find the factors affecting the rentals, we will use a simpler model for better inferences. Hence, multiple linear regression will be used.
+
+
+Project file - `final.ipynb`
